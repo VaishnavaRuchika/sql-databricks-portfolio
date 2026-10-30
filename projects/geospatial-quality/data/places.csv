@@ -1,0 +1,11 @@
+id,name,latitude,longitude
+p1,Harbor Library,47.6062,-122.3321
+p2, harbor library ,47.6063,-122.3321
+p3,Hill Park,47.6205,-122.3493
+p3,Other Park,47.63,-122.35
+p5,,47.60,-122.33
+p6,Invalid Point,95,-122
+p7,Unknown Point,NaN,-122
+,Missing Identifier,47.61,-122.32
+p9,Harbor Library,47.7,-122.4
+p10,East Museum,47.59,-122.30
